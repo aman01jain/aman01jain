@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+My name is Aman Jain, I am an Master's Student in Data Science at ASU interested in python and Database!!
+
+- 🔭 I’m currently working on Python based Projects 
+- 🌱 I recently deployed MongoDB on a Kubernetes cluster leveraging StatefulSets, Persistent Volumes, and Replica Sets
+- 👯 I’m looking to collaborate on machine Learning projects
 <!--
 **aman01jain/aman01jain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
