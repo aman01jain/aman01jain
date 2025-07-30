@@ -1,10 +1,11 @@
 ## Hi there 👋
 
-My name is Aman Jain, I am an Master's Student in Data Science at ASU interested in python and Database!!
+My name is Aman Jain, I am an Master's Student and a Research aide at ASU interested in python and Database!!
 
-- 🔭 I’m currently working on Python based Projects 
-- 🌱 I recently deployed MongoDB on a Kubernetes cluster leveraging StatefulSets, Persistent Volumes, and Replica Sets, check it out here : [Kuberenetes-MongoDB](https://github.com/aman01jain/kubernetes-mongo)
-- 👯 I’m looking to collaborate on machine Learning projects
+- 🔭 I’m currently working on Python based Projects
+- I have recently worked on YOLO pipeline and SAM2 (segment anything model from meta) to create a robust pipeline to detect objects from satellite imagery
+- 🌱 Deployed MongoDB on a Kubernetes cluster leveraging StatefulSets, Persistent Volumes, and Replica Sets, check it out here : [Kuberenetes-MongoDB](https://github.com/aman01jain/kubernetes-mongo)
+- 👯 I’m looking to collaborate on new tech projects revolving around solving a bigger problem 
 <!--
 **aman01jain/aman01jain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
